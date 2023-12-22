@@ -1,0 +1,294 @@
+[
+  {
+    "serial": "A2DE",
+    "title": "New Super Mario Bros.",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "A2DJ",
+      "A2DK",
+      "A2DP"
+    ]
+  },
+  {
+    "serial": "A2DJ",
+    "title": "New スーパーマリオブラザーズ",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "A2DK",
+    "title": "뉴 슈퍼 마리오브라더스",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "A2DP",
+    "title": "New Super Mario Bros.",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "A6RE",
+    "title": "Digimon World Dusk",
+    "save-type": "eeprom 64K",
+    "clones": [
+      "A6RJ"
+    ]
+  },
+  {
+    "serial": "A6RJ",
+    "title": "デジモンストーリー ムーンライト",
+    "save-type": "eeprom 64K"
+  },
+  {
+    "serial": "ACVE",
+    "title": "Castlevania: Dawn of Sorrow",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "ACVJ",
+      "ACVP"
+    ]
+  },
+  {
+    "serial": "ACVJ",
+    "title": "悪魔城ドラキュラ 蒼月の十字架",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "ACVP",
+    "title": "Castlevania: Dawn of Sorrow",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "ADME",
+    "title": "Animal Crossing: Wild World",
+    "save-type": "flash 256K",
+    "clones": [
+      "ADMJ",
+      "ADMK",
+      "ADMP"
+    ]
+  },
+  {
+    "serial": "ADMJ",
+    "title": "おいでよ どうぶつの森",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "ADMK",
+    "title": "놀러오세요 동물의 숲",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "ADMP",
+    "title": "Animal Crossing: Wild World",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AMCE",
+    "title": "Mario Kart DS",
+    "save-type": "flash 256K",
+    "clones": [
+      "AMCJ",
+      "AMCK",
+      "AMCP"
+    ]
+  },
+  {
+    "serial": "AMCJ",
+    "title": "マリオカートDS",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AMCK",
+    "title": "마리오 카트 DS",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AMCP",
+    "title": "Mario Kart DS",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AO2J",
+    "title": "燃えろ!熱血リズム魂 押忍!闘え!応援団2",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AOSD",
+    "title": "Elite Beat Agents",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AOSE",
+    "title": "Elite Beat Agents",
+    "save-type": "flash 256K",
+    "clones": [
+      "AOSD",
+      "AOSF",
+      "AOSI",
+      "AOSK"
+    ]
+  },
+  {
+    "serial": "AOSF",
+    "title": "Elite Beat Agents",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AOSI",
+    "title": "Elite Beat Agents",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "AOSJ",
+    "title": "押忍！闘え！応援団",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "AOSK",
+    "title": "도와줘! 리듬 히어로",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "ASME",
+    "title": "Super Mario 64 DS",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "ASMJ",
+      "ASMP"
+    ]
+  },
+  {
+    "serial": "ASMJ",
+    "title": "スーパーマリオ64",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "ASMP",
+    "title": "Super Mario 64 DS",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "ASPE",
+    "title": "Super Princess Peach",
+    "save-type": "eeprom 64K",
+    "clones": [
+      "ASPJ",
+      "ASPP"
+    ]
+  },
+  {
+    "serial": "ASPJ",
+    "title": "スーパープリンセスピーチ",
+    "save-type": "eeprom 64K"
+  },
+  {
+    "serial": "ASPP",
+    "title": "Super Princess Peach",
+    "save-type": "eeprom 64K"
+  },
+  {
+    "serial": "AZEE",
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "save-type": "flash 512K",
+    "clones": [
+      "AZEJ",
+      "AZEK",
+      "AZEP"
+    ]
+  },
+  {
+    "serial": "AZEJ",
+    "title": "ゼルダの伝説 夢幻の砂時計",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "AZEK",
+    "title": "젤다의 전설 몽환의 모래시계",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "AZEP",
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "BKIE",
+    "title": "The Legend of Zelda: Spirit Tracks",
+    "save-type": "flash 1M",
+    "clones": [
+      "BKIJ",
+      "BKIP"
+    ]
+  },
+  {
+    "serial": "BKIJ",
+    "title": "ゼルダの伝説 大地の汽笛",
+    "save-type": "flash 1M"
+  },
+  {
+    "serial": "BKIP",
+    "title": "The Legend of Zelda: Spirit Tracks",
+    "save-type": "flash 1M"
+  },
+  {
+    "serial": "IRED",
+    "title": "Pokémon Schwarze Edition 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IREF",
+    "title": "Pokémon Version Noire 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IREI",
+    "title": "Pokémon Versione Nera 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IREJ",
+    "title": "ポケットモンスター ブラック2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IREK",
+    "title": "포켓몬스터 블랙2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IREO",
+    "title": "Pokémon Black Version 2",
+    "save-type": "flash 512K",
+    "clones": [
+      "IRED",
+      "IREF",
+      "IREI",
+      "IREJ",
+      "IREK",
+      "IRES"
+    ]
+  },
+  {
+    "serial": "IRES",
+    "title": "Pokémon Edición Negra 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "YDQE",
+    "title": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "save-type": "eeprom 64K",
+    "clones": [
+      "YDQJ",
+      "YDQP"
+    ]
+  },
+  {
+    "serial": "YDQJ",
+    "title": "ドラゴンクエストIX 星空の守り人",
+    "save-type": "eeprom 64K"
+  },
+  {
+    "serial": "YDQP",
+    "title": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "save-type": "eeprom 64K"
+  }
+]
