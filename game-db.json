@@ -230,6 +230,25 @@
     "save-type": "flash 1M"
   },
   {
+    "serial": "BO5E",
+    "title": "Golden Sun: Dark Dawn",
+    "save-type": "flash 256K",
+    "clones": [
+      "BO5J",
+      "BO5P"
+    ]
+  },
+  {
+    "serial": "BO5J",
+    "title": "黄金の太陽 漆黒なる夜明け",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "BO5P",
+    "title": "Golden Sun: Dark Dawn",
+    "save-type": "flash 256K"
+  },
+  {
     "serial": "IRED",
     "title": "Pokémon Schwarze Edition 2",
     "save-type": "flash 512K"
