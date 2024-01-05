@@ -772,5 +772,30 @@
     "serial": "YFYP",
     "title": "Pokémon Mystery Dungeon: Explorers of Darkness",
     "save-type": "flash 256K"
+  },
+  {
+    "serial": "YLZE",
+    "title": "Rhythm Heaven",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "YLZJ",
+      "YLZK",
+      "YLZP"
+    ]
+  },
+  {
+    "serial": "YLZJ",
+    "title": "リズム天国ゴールド",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "YLZK",
+    "title": "리듬 세상",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "YLZP",
+    "title": "Rhythm Paradise",
+    "save-type": "eeprom 8K"
   }
 ]
