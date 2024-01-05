@@ -234,6 +234,31 @@
     "save-type": "flash 512K"
   },
   {
+    "serial": "APHE",
+    "title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+    "save-type": "flash 256K",
+    "clones": [
+      "APHJ",
+      "APHK",
+      "APHP"
+    ]
+  },
+  {
+    "serial": "APHJ",
+    "title": "ポケモン不思議のダンジョン 青の救助隊",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "APHK",
+    "title": "포켓몬 불가사의 던전 파랑 구조대",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "APHP",
+    "title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+    "save-type": "flash 256K"
+  },
+  {
     "serial": "ASME",
     "title": "Super Mario 64 DS",
     "save-type": "eeprom 8K",
@@ -358,6 +383,25 @@
     "serial": "BO5P",
     "title": "Golden Sun: Dark Dawn",
     "save-type": "flash 256K"
+  },
+  {
+    "serial": "C2SE",
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "save-type": "eeprom 128K",
+    "clones": [
+      "C2SJ",
+      "C2SP"
+    ]
+  },
+  {
+    "serial": "C2SJ",
+    "title": "ポケモン不思議のダンジョン　空の探検隊",
+    "save-type": "eeprom 128K"
+  },
+  {
+    "serial": "C2SP",
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "save-type": "eeprom 128K"
   },
   {
     "serial": "CPUD",
@@ -678,5 +722,55 @@
     "serial": "YDQP",
     "title": "Dragon Quest IX: Sentinels of the Starry Skies",
     "save-type": "eeprom 64K"
+  },
+  {
+    "serial": "YFTE",
+    "title": "Pokémon Mystery Dungeon: Explorers of Time",
+    "save-type": "flash 256K",
+    "clones": [
+      "YFTP",
+      "YFTJ",
+      "YFTK"
+    ]
+  },
+  {
+    "serial": "YFTJ",
+    "title": "ポケモン不思議のダンジョン　時の探検隊",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "YFTK",
+    "title": "포켓몬 불가사의 던전: 시간의 탐험대",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "YFTP",
+    "title": "Pokémon Mystery Dungeon: Explorers of Time",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "YFYE",
+    "title": "Pokémon Mystery Dungeon: Explorers of Darkness",
+    "save-type": "flash 256K",
+    "clones": [
+      "YFYP",
+      "YFYJ",
+      "YFYK"
+    ]
+  },
+  {
+    "serial": "YFYJ",
+    "title": "ポケモン不思議のダンジョン　闇の探検隊",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "YFYK",
+    "title": "포켓몬 불가사의 던전: 어둠의 탐험대",
+    "save-type": "flash 256K"
+  },
+  {
+    "serial": "YFYP",
+    "title": "Pokémon Mystery Dungeon: Explorers of Darkness",
+    "save-type": "flash 256K"
   }
 ]
