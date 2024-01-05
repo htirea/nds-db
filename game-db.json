@@ -272,6 +272,31 @@
     "save-type": "eeprom 64K"
   },
   {
+    "serial": "AYWE",
+    "title": "Yoshi's Island DS",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "AYWJ",
+      "AYWK",
+      "AYWP"
+    ]
+  },
+  {
+    "serial": "AYWJ",
+    "title": "ヨッシーアイランドDS",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "AYWK",
+    "title": "요시 아일랜드 DS",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "AYWP",
+    "title": "Yoshi's Island DS",
+    "save-type": "eeprom 8K"
+  },
+  {
     "serial": "AZEE",
     "title": "The Legend of Zelda: Phantom Hourglass",
     "save-type": "flash 512K",
