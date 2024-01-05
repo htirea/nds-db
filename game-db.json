@@ -57,6 +57,49 @@
     "save-type": "eeprom 8K"
   },
   {
+    "serial": "ADAD",
+    "title": "Pokémon Diamant-Edition",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "ADAE",
+    "title": "Pokémon Diamond Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "ADAJ",
+      "ADAK",
+      "ADAD",
+      "ADAS",
+      "ADAF",
+      "ADAI"
+    ]
+  },
+  {
+    "serial": "ADAF",
+    "title": "Pokémon Version Diamant",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "ADAI",
+    "title": "Pokémon Versione Diamante",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "ADAJ",
+    "title": "ポケットモンスター ダイヤモンド",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "ADAK",
+    "title": "포켓몬스터DP 디아루가",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "ADAS",
+    "title": "Pokémon Edición Diamante",
+    "save-type": "flash 512K"
+  },
+  {
     "serial": "ADME",
     "title": "Animal Crossing: Wild World",
     "save-type": "flash 256K",
@@ -146,6 +189,49 @@
     "serial": "AOSK",
     "title": "도와줘! 리듬 히어로",
     "save-type": "flash 256K"
+  },
+  {
+    "serial": "APAD",
+    "title": "Pokémon Perl-Edition",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "APAE",
+    "title": "Pokémon Pearl Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "APAJ",
+      "APAK",
+      "APAS",
+      "APAD",
+      "APAF",
+      "APAI"
+    ]
+  },
+  {
+    "serial": "APAF",
+    "title": "Pokémon Version Perle",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "APAI",
+    "title": "Pokémon Versione Perla",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "APAJ",
+    "title": "ポケットモンスター パール",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "APAK",
+    "title": "포켓몬스터DP 펄기아",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "APAS",
+    "title": "Pokémon Edición Perla",
+    "save-type": "flash 512K"
   },
   {
     "serial": "ASME",
@@ -247,6 +333,264 @@
     "serial": "BO5P",
     "title": "Golden Sun: Dark Dawn",
     "save-type": "flash 256K"
+  },
+  {
+    "serial": "CPUD",
+    "title": "Pokémon Platin-Edition",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "CPUE",
+    "title": "Pokémon Platinum Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "CPUJ",
+      "CPUK",
+      "CPUS",
+      "CPUD",
+      "CPUF",
+      "CPUI"
+    ]
+  },
+  {
+    "serial": "CPUF",
+    "title": "Pokémon Version Platine",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "CPUI",
+    "title": "Pokémon Versione Platino",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "CPUJ",
+    "title": "ポケットモンスター プラチナ",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "CPUK",
+    "title": "포켓몬스터Pt 기라티나",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "CPUS",
+    "title": "Pokémon Edición Platino",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGD",
+    "title": "Pokémon Silberne Edition SoulSilver",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGE",
+    "title": "Pokémon SoulSilver Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "IPGJ",
+      "IPGK",
+      "IPGS",
+      "IPGD",
+      "IPGF",
+      "IPGI"
+    ]
+  },
+  {
+    "serial": "IPGF",
+    "title": "Pokémon Version Argent SoulSilver",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGI",
+    "title": "Pokémon Versione Argento SoulSilver",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGJ",
+    "title": "ポケットモンスター ソウルシルバー",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGK",
+    "title": "포켓몬스터 소울실버",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPGS",
+    "title": "Pokémon Edición Plata SoulSilver",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKD",
+    "title": "Pokémon Goldene Edition HeartGold",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKE",
+    "title": "Pokémon HeartGold Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "IPKJ",
+      "IPKK",
+      "IPKS",
+      "IPKD",
+      "IPKF",
+      "IPKI"
+    ]
+  },
+  {
+    "serial": "IPKF",
+    "title": "Pokémon Version Or HeartGold",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKI",
+    "title": "Pokémon Versione Oro HeartGold",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKJ",
+    "title": "ポケットモンスター ハートゴールド",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKK",
+    "title": "포켓몬스터 하트골드",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IPKS",
+    "title": "Pokémon Edición Oro HeartGold",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAD",
+    "title": "Pokémon Weiße Edition",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAF",
+    "title": "Pokémon Version Blanche",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAI",
+    "title": "Pokémon Versione Bianca",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAJ",
+    "title": "ポケットモンスター ホワイト",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAK",
+    "title": "포켓몬스터 화이트",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRAO",
+    "title": "Pokémon White Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "IRAJ",
+      "IRAK",
+      "IRAS",
+      "IRAF",
+      "IRAI",
+      "IRAD"
+    ]
+  },
+  {
+    "serial": "IRAS",
+    "title": "Pokémon Edición Blanca",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBD",
+    "title": "Pokémon Schwarze Edition",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBF",
+    "title": "Pokémon Version Noire",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBI",
+    "title": "Pokémon Versione Nera",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBJ",
+    "title": "ポケットモンスター ブラック",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBK",
+    "title": "포켓몬스터 블랙",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRBO",
+    "title": "Pokémon Black Version",
+    "save-type": "flash 512K",
+    "clones": [
+      "IRBJ",
+      "IRBK",
+      "IRBS",
+      "IRBD",
+      "IRBF",
+      "IRBI"
+    ]
+  },
+  {
+    "serial": "IRBS",
+    "title": "Pokémon Edición Negra",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDD",
+    "title": "Pokémon Weiße Edition 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDF",
+    "title": "Pokémon Version Blanche 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDI",
+    "title": "Pokémon Versione Bianca 2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDJ",
+    "title": "ポケットモンスター ホワイト ２",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDK",
+    "title": "포켓몬스터 화이트2",
+    "save-type": "flash 512K"
+  },
+  {
+    "serial": "IRDO",
+    "title": "Pokémon White Version 2",
+    "save-type": "flash 512K",
+    "clones": [
+      "IRDJ",
+      "IRDK",
+      "IRDS",
+      "IRDF",
+      "IRDI",
+      "IRDD"
+    ]
+  },
+  {
+    "serial": "IRDS",
+    "title": "Pokémon Edición Blanca 2",
+    "save-type": "flash 512K"
   },
   {
     "serial": "IRED",
