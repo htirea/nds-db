@@ -38,6 +38,31 @@
     "save-type": "eeprom 64K"
   },
   {
+    "serial": "A8TE",
+    "title": "Mario Party DS",
+    "save-type": "eeprom 8K",
+    "clones": [
+      "A8TP",
+      "A8TJ",
+      "A8TK"
+    ]
+  },
+  {
+    "serial": "A8TJ",
+    "title": "マリオパーティDS",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "A8TK",
+    "title": "마리오 파티 DS",
+    "save-type": "eeprom 8K"
+  },
+  {
+    "serial": "A8TP",
+    "title": "Mario Party DS",
+    "save-type": "eeprom 8K"
+  },
+  {
     "serial": "ACVE",
     "title": "Castlevania: Dawn of Sorrow",
     "save-type": "eeprom 8K",
